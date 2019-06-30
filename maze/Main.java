@@ -1,4 +1,9 @@
-﻿package maze;
+/*
+ *@author mbk
+ */
+
+
+package maze;
 public class Main{
     public static void main(String [] args){
         String m1 = "33 33\n"
